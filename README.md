@@ -46,5 +46,6 @@ AGRADECIMIENTOS:
 
 - Zoogie por descubir la vulnerabilidad en el juego Pichaxx.
 - d0k3 por el soporte de SafeB9SInstaller.
-- Yakara por su script de mejora del boot9. 
+- Yakara por su script de mejora del boot9.
+- López Tutoriales por las traduciones de Luma.  
 - Team Preshax por brindar el soporte del minado en Discord La Presa.
