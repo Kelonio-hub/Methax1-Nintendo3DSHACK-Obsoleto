@@ -24,6 +24,7 @@ Ejecutaremos el scripts Yakarear_3ds_2020. Con ello actualizaremos el boot9 medi
 Además, podremos encender la consola sin la tarjeta Sd y, sobre todo, lograremos evitar Arranques Rotos (los llamados BB).
 
 - En sexto lugar, formatearemos la Sd y meteremos los Archivos Hack Paso 2: https://mega.nz/file/T3pAhbqb#lIthoGWLKypTi6RRgJaHxGQPd_omnOGT0bVEknRtOlA
+
 Verificaremos nuevamente que Luma [Select+Power] tiene activa las opciones de Mostrar NAND o texto personalizado en Conf. y la opción del Splash en [Antes] (es opcional pero muy recomendable para idenficiar errores de arranque). Pulsaremos Star para que inicie nuestra consola ya modificada.
 
 Por últimos, nos quedará:
