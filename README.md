@@ -23,15 +23,14 @@ A continuación entraremos al godmode9 [star+power] le daremos al botón Home y 
 Ejecutaremos el scripts Yakarear_3ds_2020. Con ello actualizaremos el boot9 mediante el fork de Yakara, teniendo mayor estabilidad frente al boot9 de 2017. 
 Además, podremos encender la consola sin la tarjeta Sd y, sobre todo, lograremos evitar Arranques Rotos (los llamados BB).
 
-Por íultimos, nos quedará:
-
-Instalar el FBI desde el Godmode9 o mediante Rosalina.
-Inyectar el Splash de seguridad (es opcional pero muy recomendable para idenficiar errores de arranque).
-Crear respaldo NAND.
+Por últimos, nos quedará:
+- Instalar el FBI desde el Godmode9 o mediante Rosalina.
+- Inyectar el Splash de seguridad (es opcional pero muy recomendable para idenficiar errores de arranque).
+- Crear respaldo NAND.
 
 AGRADECIMIENTOS:
 
-Zoogie por descubir la vulnerabilidad en el juego Pichaxx.
-d0k3 por el soporte de SafeB9SInstaller.
-Yakara por su script de mejora del boot9. 
-Team Preshax por brindar el soporte del minado en Discord La Presa.
+- Zoogie por descubir la vulnerabilidad en el juego Pichaxx.
+- d0k3 por el soporte de SafeB9SInstaller.
+- Yakara por su script de mejora del boot9. 
+- Team Preshax por brindar el soporte del minado en Discord La Presa.
