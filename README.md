@@ -24,9 +24,11 @@ Ejecutaremos el scripts Yakarear_3ds_2020. Con ello actualizaremos el boot9 medi
 Además, podremos encender la consola sin la tarjeta Sd y, sobre todo, lograremos evitar Arranques Rotos (los llamados BB).
 
 Por íultimos, nos quedará:
+
 Instalar el FBI desde el Godmode9 o mediante Rosalina.
 Inyectar el Splash de seguridad (es opcional pero muy recomendable para idenficiar errores de arranque).
 Crear respaldo NAND.
+
 AGRADECIMIENTOS:
 
 Zoogie por descubir la vulnerabilidad en el juego Pichaxx.
