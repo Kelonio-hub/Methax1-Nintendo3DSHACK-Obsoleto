@@ -17,11 +17,21 @@ https://www.librescene.com/hack-3ds para sacar el archivo .sav (se obtiene añad
 
 - En tercer lugar, introduciremos los archivos hack paso 1 (se encuentra luma 10.2.1 y godmode9 1.9.2) en la raíz de la sd: https://mega.nz/file/a3wghThS#FpU0kXyT9S_hb0k0XFZacuG2pHCkrxJGDlTs7Is0Bns
 
-- En cuarto lugar, acudiremos a la consola y abriremos el juego de Pokemon Picross. En esta ocasión se flasheará y saldrá el SafeB9SInstaller. A continuación, ejecutaremos la combinación de botones que nos indique. Al finalizar se acabará de instalar el Boot9.
+- En cuarto lugar, acudiremos a la consola y abriremos el juego de Pokemon Picross. En esta ocasión se flasheará y saldrá el SafeB9SInstaller. A continuación, ejecutaremos la combinación de botones que nos indique. Al finalizar se acabará de instalar el Boot9 de 2017.
+Acto seguido, saldrá el menú de Luma (de no ser así, con la consola apagada, lo abriremos con Select+Power) y marcaremos la opción: Mostrar NAND o texto personalizado en Conf. Pulsaremos Star para que inicie nuestra consola ya modificada.
 
-- En quinto lugar, entraremos al godmode9 [Star+Power] le daremos al botón Home y acudiremos a la opción Scripts...
-Ejecutaremos el scripts Yakarear_3ds_2020. Con ello actualizaremos el boot9 mediante el fork de Yakara, teniendo mayor estabilidad frente al boot9 de 2017. 
-Además, podremos encender la consola sin la tarjeta Sd y, sobre todo, lograremos evitar Arranques Rotos (los llamados BB).
+
+- En quinto lugar, ingresaremos al godmode9. 
+
+1. Le daremos a la [B] para no generar una fecha ni una hora determinadas.
+
+2. Pulsaremos el botón [HOME] para desplegar un panel de opciones.
+
+3. Acudiremos a la opción Scripts... 
+
+4. Ejecutaremos el scripts Yakarear_3DS_2020. Tendremos que darle permisos. 
+
+Acto seguido, saldrá el menú de Luma (de no ser así, con la consola apagada, lo abriremos con select+power) y marcaremos la opción: Mostrar NAND o texto personalizado en Conf. Pulsaremos Star para que inicie nuestra consola ya modificada y actualizada con el Boot9 de 2020. con este script, además, podremos encender nuestra consola sin la SD, priviene los arranques rotos [los llamados BB] y es más rápido y estable que el de 2017. 
 
 - En sexto lugar, formatearemos la Sd y meteremos los Archivos Hack Paso 2: https://mega.nz/file/T3pAhbqb#lIthoGWLKypTi6RRgJaHxGQPd_omnOGT0bVEknRtOlA
 
