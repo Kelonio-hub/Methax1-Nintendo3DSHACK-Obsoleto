@@ -1,4 +1,4 @@
-# Methax-3
+# Methax
 Método de modificación de consola 3Ds
 
 
