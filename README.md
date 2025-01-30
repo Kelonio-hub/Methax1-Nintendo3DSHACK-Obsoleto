@@ -1,4 +1,4 @@
-# Methax 1
+# Methax 1 - PROCESO OBSOLETO
 Método de modificación de consola 3Ds
 
 
